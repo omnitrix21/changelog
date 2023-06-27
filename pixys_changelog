@@ -1,0 +1,8 @@
+Changelog - 6.3.1
+Build Date - 7th February, 2023
+
+Initial Build from my side
+nuked common parts and imported parts from arrow-os devices
+drop per-app refresh rate
+Build QTI thermal HIDL 
+
